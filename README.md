@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0053-maximum-subarray) |
 | [0792-binary-search](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
