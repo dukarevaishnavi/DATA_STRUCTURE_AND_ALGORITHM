@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
