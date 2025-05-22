@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0792-binary-search) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -53,5 +55,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
