@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0948-sort-an-array) |
+| [1677-matrix-diagonal-sum](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/1677-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0054-spiral-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
