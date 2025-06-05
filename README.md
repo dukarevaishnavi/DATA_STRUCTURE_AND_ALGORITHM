@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0217-contains-duplicate) |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dukarevaishnavi/DATA_STRUCTURE_AND_ALGORITHM/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
